@@ -1,4 +1,4 @@
-# advance_technogies
+# Advance Technogies
 This repository will contain advance topics of IT world
 
 1. Introduction of HADR [link](https://github.com/swapnilpatil8289/advance_technogies/wiki/High-Availability-and-Disaster-Recovery-(HADR)-Technology)
